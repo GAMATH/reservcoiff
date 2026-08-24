@@ -1,0 +1,6 @@
+{
+  "name": "Kuzuri - Réservation Beauté & Coiffure Afrique",
+  "description": "Plateforme SaaS et marketplace de réservation pour salons de coiffure, barbiers et instituts de beauté en Afrique (Congo, Gabon, Cameroun, Côte d'Ivoire, Bénin, Togo). Paiements Mobile Money, WhatsApp et gestion de salon.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
